@@ -12,3 +12,4 @@ An AI-powered health advisor chatbot built with Streamlit and OpenAI's GPT-3.5-t
    ```bash
    git clone https://github.com/YourUsername/Health_Advisor.git
    cd Health_Advisor
+2. Replace the OPENAI API key in the .env file with your own
