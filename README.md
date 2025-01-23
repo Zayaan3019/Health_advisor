@@ -10,5 +10,5 @@ An AI-powered health advisor chatbot built with Streamlit and OpenAI's GPT-3.5-t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Personal_Health_Chatbot.git
-   cd Personal_Health_Chatbot
+   git clone https://github.com/YourUsername/Health_Advisor.git
+   cd Health_Advisor
